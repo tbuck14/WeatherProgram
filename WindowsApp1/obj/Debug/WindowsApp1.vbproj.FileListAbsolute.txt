@@ -1,0 +1,12 @@
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Dell.Dell-PC\Documents\project #1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
